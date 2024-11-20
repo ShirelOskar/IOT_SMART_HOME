@@ -4,3 +4,5 @@ environment under the cloud computing paradigm. We will use the IaaS infrastruct
 create an interface between IoT devices and a Cloud IaaS. Will be learned to operate and
 communicate between sensors located on embedded computing systems and reporting
 data to cloud servers.
+
+Good luck!
