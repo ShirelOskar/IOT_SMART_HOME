@@ -5,4 +5,5 @@ create an interface between IoT devices and a Cloud IaaS. Will be learned to ope
 communicate between sensors located on embedded computing systems and reporting
 data to cloud servers.
 
-Good luck!
+“Petcare” is an IOT-based system designed to automate feeding, track the consumption of food and water, and deliver snacks and toys for pets.
+
